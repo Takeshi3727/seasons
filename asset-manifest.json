@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Takeshi3727/seasons.git/static/css/main.4aa0dce5.chunk.css",
-    "main.js": "/Takeshi3727/seasons.git/static/js/main.67c05aca.chunk.js",
-    "main.js.map": "/Takeshi3727/seasons.git/static/js/main.67c05aca.chunk.js.map",
-    "runtime-main.js": "/Takeshi3727/seasons.git/static/js/runtime-main.957b0326.js",
-    "runtime-main.js.map": "/Takeshi3727/seasons.git/static/js/runtime-main.957b0326.js.map",
-    "static/js/2.8b77c9df.chunk.js": "/Takeshi3727/seasons.git/static/js/2.8b77c9df.chunk.js",
-    "static/js/2.8b77c9df.chunk.js.map": "/Takeshi3727/seasons.git/static/js/2.8b77c9df.chunk.js.map",
-    "index.html": "/Takeshi3727/seasons.git/index.html",
-    "precache-manifest.6b0032e8758d4dae3cc801504f94a42c.js": "/Takeshi3727/seasons.git/precache-manifest.6b0032e8758d4dae3cc801504f94a42c.js",
-    "service-worker.js": "/Takeshi3727/seasons.git/service-worker.js",
-    "static/css/main.4aa0dce5.chunk.css.map": "/Takeshi3727/seasons.git/static/css/main.4aa0dce5.chunk.css.map",
-    "static/js/2.8b77c9df.chunk.js.LICENSE.txt": "/Takeshi3727/seasons.git/static/js/2.8b77c9df.chunk.js.LICENSE.txt"
+    "main.css": "/seasons/static/css/main.4aa0dce5.chunk.css",
+    "main.js": "/seasons/static/js/main.67c05aca.chunk.js",
+    "main.js.map": "/seasons/static/js/main.67c05aca.chunk.js.map",
+    "runtime-main.js": "/seasons/static/js/runtime-main.53d2d0be.js",
+    "runtime-main.js.map": "/seasons/static/js/runtime-main.53d2d0be.js.map",
+    "static/js/2.8b77c9df.chunk.js": "/seasons/static/js/2.8b77c9df.chunk.js",
+    "static/js/2.8b77c9df.chunk.js.map": "/seasons/static/js/2.8b77c9df.chunk.js.map",
+    "index.html": "/seasons/index.html",
+    "precache-manifest.54b7ae7832b6f5b9e726c060a0f3fc5d.js": "/seasons/precache-manifest.54b7ae7832b6f5b9e726c060a0f3fc5d.js",
+    "service-worker.js": "/seasons/service-worker.js",
+    "static/css/main.4aa0dce5.chunk.css.map": "/seasons/static/css/main.4aa0dce5.chunk.css.map",
+    "static/js/2.8b77c9df.chunk.js.LICENSE.txt": "/seasons/static/js/2.8b77c9df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.957b0326.js",
+    "static/js/runtime-main.53d2d0be.js",
     "static/js/2.8b77c9df.chunk.js",
     "static/css/main.4aa0dce5.chunk.css",
     "static/js/main.67c05aca.chunk.js"
